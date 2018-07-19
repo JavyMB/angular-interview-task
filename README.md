@@ -2,13 +2,13 @@
 This is for testing angular skills
 
 We are going to use stackblitz online code editor for this task. Goto the following link in chrome 
-https://stackblitz.com/edit/angular-interview-sample-unsolved
+https://stackblitz.com/edit/angular-interview-task-unsolved
 
 This is your workspace where you will complete the project as per the instruction below.
 
-# Pre-caution for this test
+# Note
 
-Do not touch the code in the directors directory. Consider that to be a extenal component ,. Since stackblitz does not allow import from git, I have included it here. 
+Do not touch the code in the directors directory. Consider that to be a external component. Since stackblitz does not allow import from git, I have included it here. 
 
 # Context
 There are three sections 
